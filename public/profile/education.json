@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "title": "2021-2025",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Providence College of Engineering,Chengannur",
+            "icon" : {
+                "src": "images/education/cse.JPG"
+            }
+        },
+        {
+            "title": "2019-2021",
+            "cardTitle": "Diploma",
+            "cardSubtitle":"NSS Polytechnic College,Pandalam",
+            "cardDetailedText": "CGPA-8.5"
+        }
+    ]
+}

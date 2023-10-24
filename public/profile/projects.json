@@ -1,0 +1,104 @@
+{
+    "projects" : [
+        {
+            "title": "Ak ",
+            "bodyText": "- Myself",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl"
+                }
+               
+            ],
+            "tags" : [
+                "React",
+                "HTML",
+                "JavaScript"
+            ]
+        },
+       
+        {
+            "title": "youtube",
+            "bodyText": "- A clone site.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl/youtube"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "title": "Bouncing-Ball",
+            "bodyText": "- A bouncing ball.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl/Bouncing-Ball"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Image-Gallery",
+            "bodyText": "- A gallery.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl/Image-Gallery"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+                
+            ]
+        },
+        {
+            "title": "Sequencing-Animations",
+            "bodyText": "- A simple Task.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl/Sequencing-Animations-"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Silly-Story-Generator ",
+            "bodyText": "- A Web App for Story Generator.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Akhilvgl/Silly-Story-Generator"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS",
+                "HTML"
+                
+            ]
+        }
+    ]
+}
